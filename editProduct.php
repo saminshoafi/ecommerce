@@ -25,6 +25,7 @@ $category = category::all();
             <?php
             }
             ?>
+            <!--  -->
             </select>
     <button>✅</button>
 </form>
